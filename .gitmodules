@@ -1,0 +1,3 @@
+[submodule "XFoundation"]
+	path = TurboXFoundation
+	url = https://github.com/TurboXStudio/TurboXFoundation.git
